@@ -1,5 +1,4 @@
 # это прога для того, чтобы научиться быстро считать
-import math
 import random
 print("Press F to stop")
 while True:
